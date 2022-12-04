@@ -1,3 +1,5 @@
+# RACKSACK COMMON ITEM TYPE
+
 def task_a(int_num_arr):
     counter = 0
     shared_items = []

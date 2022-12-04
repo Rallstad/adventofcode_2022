@@ -26,5 +26,5 @@ try:
         t6.task_a(int_num_arr)
         t6.task_b(int_num_arr)
 except:
-    print("invalid input of: " + tasknr)
+    print("invalid input of: " + tasknr + '?')
     print("It should be a number")
